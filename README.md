@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ammad and I am a computer science student.
 - 👀 I’m interested in front end development
 - 🌱 I’m currently learning programming and working on side projects to showcase
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on projects that will allow me expand my skills
 - 📫 How to reach me? @ammadur68@gmail.com, IG:@ammad.17
 
 
